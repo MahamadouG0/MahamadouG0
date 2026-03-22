@@ -1,10 +1,10 @@
-<h1 align="center">Salut, je suis Mahamadou GARBA ZAKOU 👋</h1>
+<h1 align="center">Hi, I'm Mahamadou GARBA ZAKOU 👋</h1>
 
-<h3 align="center">💻 Étudiant en Informatique fondamentale et appliquée | Passionné par le développement logiciel et l'IA</h3>
+<h3 align="center">💻 Computer Science Student | Passionate about Software Development & AI</h3>
 
 <p align="center">
-  🇫🇷 <a href="#"><strong>Français</strong></a> &nbsp;|&nbsp;
-  🇬🇧 <a href="README.en.md">English</a>
+  🇬🇧 <a href="#"><strong>English</strong></a> &nbsp;|&nbsp;
+  🇫🇷 <a href="README.md">Français</a>
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=440&lines=Mahamadou+GARBA+ZAKOU" alt="Mahamadou GARBA ZAKOU" />
   <br/>
-  <img src="https://readme-typing-svg.demolab.com/?lines=D%C3%A9veloppement+Logiciel+%7C+IA;%C3%89tudiant+passionn%C3%A9+%F0%9F%92%AA;Toujours+en+train+d%27apprendre+%F0%9F%8C%B1;Java+%7C+Python+%7C+C%23;Spring+Boot+%7C+.NET+%7C+TensorFlow&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Development+%7C+AI;Passionate+Student+%F0%9F%92%AA;Always+learning+%F0%9F%8C%B1;Java+%7C+Python+%7C+C%23;Spring+Boot+%7C+.NET+%7C+TensorFlow&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
 </p>
 
 <br>
@@ -56,22 +56,22 @@
 
 ---
 
-## 📌 À propos de moi
+## 📌 About Me
 
-- 🎓 Étudiant en **Informatique fondamentale et appliquée** à Niamey, Niger
-- 💡 Passionné par le **développement logiciel**, l'**intelligence artificielle** et les **technologies web**
-- 🔭 Je travaille actuellement sur des projets en **Java Spring Boot**, **.NET** et **Python**
-- 🌱 J'apprends en continu : **Deep Learning**, **Cloud Computing (AWS)** et **DevOps**
-- 👯 Je cherche à collaborer sur des projets open source innovants
-- 💬 Pose-moi des questions sur **Java**, **C#**, **Python**, ou le développement web
-- ⚡ Fun fact : Je code depuis mon premier ordinateur et je n'arrête jamais d'apprendre !
+- 🎓 **Computer Science** student in Niamey, Niger
+- 💡 Passionate about **software development**, **artificial intelligence**, and **web technologies**
+- 🔭 Currently working on projects in **Java Spring Boot**, **.NET**, and **Python**
+- 🌱 Continuously learning: **Deep Learning**, **Cloud Computing (AWS)**, and **DevOps**
+- 👯 Looking to collaborate on innovative open source projects
+- 💬 Ask me about **Java**, **C#**, **Python**, or web development
+- ⚡ Fun fact: I've been coding since my first computer and I never stop learning!
 
 ---
 
 <details open>
-  <summary><h2>🛠️ Mes Outils Favoris</h2></summary>
+  <summary><h2>🛠️ My Favorite Tools</h2></summary>
 
-  <h3>👨‍💻 Langages de Programmation</h3>
+  <h3>👨‍💻 Programming Languages</h3>
 
   <p>
     <a href="https://github.com/search?q=user%3AMahamadouG0+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
@@ -88,7 +88,7 @@
     <a href="https://github.com/search?q=user%3AMahamadouG0+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
   </p>
 
-  <h3>🧰 Frameworks et Bibliothèques</h3>
+  <h3>🧰 Frameworks & Libraries</h3>
 
   <p>
     <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?logo=spring-boot&logoColor=white"></a>
@@ -103,7 +103,7 @@
     <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?logo=django&logoColor=white"></a>
   </p>
 
-  <h3>🗄️ Bases de Données et Hébergement</h3>
+  <h3>🗄️ Databases & Hosting</h3>
 
   <p>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white"></a>
@@ -117,7 +117,7 @@
     <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?logo=amazon-aws&logoColor=white"></a>
   </p>
 
-  <h3>💻 Logiciels et Outils</h3>
+  <h3>💻 Software & Tools</h3>
 
   <p>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
@@ -137,27 +137,27 @@
 ---
 
 <details>
-  <summary><h2>📊 Statistiques GitHub</h2></summary>
+  <summary><h2>📊 GitHub Stats</h2></summary>
 
-  <h3>💻 Stats du Profil</h3>
+  <h3>💻 Profile Stats</h3>
 
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="MahamadouG0's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=MahamadouG0&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="MahamadouG0's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahamadouG0&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
 
   <br/>
 
-  > **Note :** Les langages affichés reflètent uniquement mon code public et ne représentent pas forcément mon niveau d'expérience.
+  > **Note:** Top languages shown reflect only my public code and don't necessarily represent my experience level.
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="MahamadouG0's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=MahamadouG0&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-  <h3>⚡ Activité Récente sur GitHub</h3>
+  <h3>⚡ Recent GitHub Activity</h3>
 
   <!--START_SECTION:activity-->
-  - 🎉 Création du dépôt [GestionBibliothequeJavaBeans](https://github.com/MahamadouG0/GestionBibliothequeJavaBeans)
-  - 🎉 Création du dépôt [GestionBiblio](https://github.com/MahamadouG0/GestionBiblio)
-  - 🎉 Création du dépôt [reseau-adhoc-ns2](https://github.com/MahamadouG0/reseau-adhoc-ns2)
-  - 🎉 Création du dépôt [composants_beans_gestion_produit](https://github.com/MahamadouG0/composants_beans_gestion_produit)
-  - 🗣 Commentaire sur [continuedev/continue](https://github.com/continuedev/continue/issues) : "Error: DeepSeek Coder - 402"
+  - 🎉 Created repository [GestionBibliothequeJavaBeans](https://github.com/MahamadouG0/GestionBibliothequeJavaBeans)
+  - 🎉 Created repository [GestionBiblio](https://github.com/MahamadouG0/GestionBiblio)
+  - 🎉 Created repository [reseau-adhoc-ns2](https://github.com/MahamadouG0/reseau-adhoc-ns2)
+  - 🎉 Created repository [composants_beans_gestion_produit](https://github.com/MahamadouG0/composants_beans_gestion_produit)
+  - 🗣 Commented on [continuedev/continue](https://github.com/continuedev/continue/issues) : "Error: DeepSeek Coder - 402"
   <!--END_SECTION:activity-->
 </details>
 
@@ -167,123 +167,123 @@
 
 <div align="center">
 
-## 🌟 Stack Technique
+## 🌟 Tech Stack
 
 <table align="center">
-   <tr>
+    <tr>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
       <br>Python
-     </td>
+    </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
       <br>Java
-     </td>
+    </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
       <br>JavaScript
-     </td>
+    </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
       <br>C#
-     </td>
+    </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
       <br>C++
-     </td>
+    </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
       <br>MySQL
-     </td>
+    </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
       <br>Docker
-     </td>
+    </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
       <br>AWS
-     </td>
+    </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
       <br>GitHub
-     </td>
-   </tr>
-   <tr>
+    </td>
+    </tr>
+    <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
       <br>HTML5
-     </td>
+    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
       <br>CSS
-     </td>
+    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
       <br>Bootstrap
-     </td>
+    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
       <br>PHP
-     </td>
+    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
       <br>WordPress
-     </td>
+    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
       <br>Spring
-     </td>
+    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" />
       <br>.NET
-     </td>
+    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
       <br>VS Code
-     </td>
+    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
       <br>Linux
-     </td>
-   </tr>
-   <tr>
+    </td>
+    </tr>
+    <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
-     </td>
+    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
       <br>Postman
-     </td>
+    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
       <br>Figma
-     </td>
+    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
       <br>React
-     </td>
+    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
       <br>Node.js
-     </td>
+    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
       <br>MongoDB
-     </td>
+    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
-     </td>
+    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
       <br>TensorFlow
-     </td>
+    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android Studio" />
       <br>Android
-     </td>
-   </tr>
+    </td>
+    </tr>
 </table>
 
 </div>
@@ -307,7 +307,7 @@
   </a>
 </p>
 
-### 🔝 Top Repos Contribués
+### 🔝 Top Contributed Repos
 
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=MahamadouG0&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
@@ -323,12 +323,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MahamadouG0&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Graphe%20de%20contributions%20total" width="95%" alt="activity graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MahamadouG0&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph" width="95%" alt="activity graph">
 </p>
 
 ---
 
-### ✍️ Citation Dev du Jour
+### ✍️ Random Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote"/>
@@ -336,7 +336,7 @@
 
 ---
 
-### 🐍 Snake des Contributions
+### 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/MahamadouG0/snk/output/github-contribution-grid-snake.svg" alt="snake animation" style="max-width: 100%;">
@@ -344,20 +344,20 @@
 
 ---
 
-## 📈 Projets Récents
+## 📈 Recent Projects
 
-| Projet | Description | Technologies |
-|--------|-------------|--------------|
-| [GestionBibliothequeJavaBeans](https://github.com/MahamadouG0/GestionBibliothequeJavaBeans) | Gestion de bibliothèque avec JavaBeans | Java, JavaBeans |
-| [GestionBiblio](https://github.com/MahamadouG0/GestionBiblio) | Application de gestion bibliothèque | Java |
-| [reseau-adhoc-ns2](https://github.com/MahamadouG0/reseau-adhoc-ns2) | Simulation réseau ad-hoc avec NS2 | Tcl, NS2 |
-| [composants_beans_gestion_produit](https://github.com/MahamadouG0/composants_beans_gestion_produit) | Composants JavaBeans pour gestion produit | Java, Spring Boot |
-| [TodoApi](https://github.com/MahamadouG0/TodoApi) | API REST de gestion de tâches | C#, ASP.NET Core |
-| [JeuDeLaVie](https://github.com/MahamadouG0/JeuDeLaVie) | Implémentation du Jeu de la Vie de Conway | Python |
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| [GestionBibliothequeJavaBeans](https://github.com/MahamadouG0/GestionBibliothequeJavaBeans) | Library management with JavaBeans | Java, JavaBeans |
+| [GestionBiblio](https://github.com/MahamadouG0/GestionBiblio) | Library management application | Java |
+| [reseau-adhoc-ns2](https://github.com/MahamadouG0/reseau-adhoc-ns2) | Ad-hoc network simulation with NS2 | Tcl, NS2 |
+| [composants_beans_gestion_produit](https://github.com/MahamadouG0/composants_beans_gestion_produit) | JavaBeans components for product management | Java, Spring Boot |
+| [TodoApi](https://github.com/MahamadouG0/TodoApi) | REST API for task management | C#, ASP.NET Core |
+| [JeuDeLaVie](https://github.com/MahamadouG0/JeuDeLaVie) | Conway's Game of Life implementation | Python |
 
 ---
 
-## 📫 Me Contacter
+## 📫 Contact Me
 
 <p align="center">
   <a href="mailto:mahamadoug623@gmail.com">
@@ -389,19 +389,19 @@
 ---
 
 <p align="center">
-  <i>🌱 J'apprends et j'expérimente chaque jour — N'hésite pas à me contacter !</i>
+  <i>🌱 I learn and experiment every day — Feel free to reach out!</i>
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/MahamadouG0/count.svg" alt="Visiteurs" />
+  <img src="https://profile-counter.glitch.me/MahamadouG0/count.svg" alt="Visitors" />
 </p>
 
 <p align="center">
-  <i>👥 Nombre de visiteurs sur ce profil</i>
+  <i>👥 Profile visitors count</i>
 </p>
 
 <p align="center">
-  ⭐️ N'hésite pas à star les projets qui t'intéressent ! ⭐️
+  ⭐️ Don't hesitate to star projects that interest you! ⭐️
 </p>
