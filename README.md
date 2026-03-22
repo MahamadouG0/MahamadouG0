@@ -31,8 +31,8 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/MahamadouG0/beautiful-github-homepage"><img height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=MahamadouG0&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="MahamadouG0 github stats" /></a>
-  <a href="https://github.com/MahamadouG0/beautiful-github-homepage"><img height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=MahamadouG0&hide_title=false&layout=compact&theme=gotham&count_private=true" /></a>
+  <a href="https://github.com/MahamadouG0"><img height='150px' src="https://github-readme-stats.vercel.app/api?username=MahamadouG0&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="MahamadouG0 github stats" /></a>
+  <a href="https://github.com/MahamadouG0"><img height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahamadouG0&hide_title=false&layout=compact&theme=gotham&count_private=true" /></a>
 </p>
 
 <br>
@@ -63,7 +63,6 @@
     <a href="https://github.com/search?q=user%3AMahamadouG0+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3AMahamadouG0+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="https://github.com/search?q=user%3AMahamadouG0+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3AMahamadouG0+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3AMahamadouG0+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3AMahamadouG0+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3AMahamadouG0+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
@@ -85,7 +84,7 @@
 
   <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
     <a href="#"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
     <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
@@ -122,7 +121,6 @@
   > **Note :** Les langages affichés reflètent uniquement mon code public et ne représentent pas forcément mon niveau d'expérience.
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="MahamadouG0's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=MahamadouG0&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
 </details>
 
 ---
@@ -133,7 +131,7 @@
 
 ## 🌟 Stack Technique
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
@@ -211,21 +209,17 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/MahamadouG0?tab=repositories">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=MahamadouG0&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="@MahamadouG0's github-readme-stats"/>
-  </a>
-  <a href="https://github.com/MahamadouG0?tab=stars">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=MahamadouG0&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="@MahamadouG0's github-readme-streak-stats"/>
+  <a href="https://github.com/MahamadouG0">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=MahamadouG0&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="GitHub Streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/MahamadouG0?tab=achievements">
-    <img src="https://github-profile-trophy.vercel.app/?username=MahamadouG0&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="@MahamadouG0's trophy stats"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=MahamadouG0&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
   </a>
 </p>
 
-<!-- activity graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MahamadouG0&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Graphe%20de%20contributions" width="95%" alt="activity graph">
 </p>
@@ -235,7 +229,7 @@
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/MahamadouG0/count.svg" alt="MahamadouG0 :: Visitor's Count" />
+  <img src="https://profile-counter.glitch.me/MahamadouG0/count.svg" alt="Visitor's Count" />
 </p>
 
 ---
