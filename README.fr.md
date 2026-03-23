@@ -1,15 +1,10 @@
-
 <div align="right">
   <a href="README.md"><img src="https://flagcdn.com/16x12/gb.png" width="20" height="15" alt="English"> English</a>&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="README.fr.md"><img src="https://flagcdn.com/16x12/fr.png" width="20" height="15" alt="Français"> Français</a>
 </div>
 
-
-
 <!-- HEADER BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:58a6ff&height=180&section=header&text=Mahamadou%20GARBA%20ZAKOU&fontSize=40&fontColor=ffffff&fontAlignY=42&animation=fadeIn" alt="header"/>
-
-
 
 <h3 align="center">💻 Étudiant en Informatique fondamentale et appliquée | Passionné par le développement logiciel et l'IA</h3>
 
@@ -21,48 +16,35 @@
 </p>
 
 <!-- SOCIAL ICONS ROW -->
-<div id="social-icons" style="display: flex; justify-content: center; gap: 6px; align-items: center;">
+<p align="center">
   <a href="https://x.com/GarbaM38909" target="_blank">
-    <img src="https://img.shields.io/badge/-ffffff?style=flat-square&logo=x&logoColor=000000&labelColor=ffffff" />
+    <img src="https://img.shields.io/badge/-ffffff?style=flat-square&logo=x&logoColor=000000&labelColor=ffffff" width="42" height="42" style="border-radius: 50%; padding: 6px;" />
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/mahamadou-garba" target="_blank">
-    <img src="https://i.pinimg.com/736x/2d/6f/cb/2d6fcb4ffd51802b261abd7e0d5d2b05.jpg" />
+    <img src="https://img.shields.io/badge/-ffffff?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=ffffff" width="42" height="42" style="border-radius: 50%; padding: 6px;" />
   </a>
+  &nbsp;
   <a href="https://www.facebook.com/share/1CTK99pFDC" target="_blank">
-    <img src="https://img.shields.io/badge/-ffffff?style=flat-square&logo=facebook&logoColor=1877F2&labelColor=ffffff" />
+    <img src="https://img.shields.io/badge/-ffffff?style=flat-square&logo=facebook&logoColor=1877F2&labelColor=ffffff" width="42" height="42" style="border-radius: 50%; padding: 6px;" />
   </a>
+  &nbsp;
   <a href="https://dev.to/MahamadouG0" target="_blank">
-    <img src="https://img.shields.io/badge/-ffffff?style=flat-square&logo=dev.to&logoColor=0A0A0A&labelColor=ffffff" />
+    <img src="https://img.shields.io/badge/-ffffff?style=flat-square&logo=dev.to&logoColor=0A0A0A&labelColor=ffffff" width="42" height="42" style="border-radius: 50%; padding: 6px;" />
   </a>
+  &nbsp;
   <a href="https://ko-fi.com/MahamadouG0" target="_blank">
-    <img src="https://img.shields.io/badge/-ffffff?style=flat-square&logo=ko-fi&logoColor=FF5E5B&labelColor=ffffff" />
+    <img src="https://img.shields.io/badge/-ffffff?style=flat-square&logo=ko-fi&logoColor=FF5E5B&labelColor=ffffff" width="42" height="42" style="border-radius: 50%; padding: 6px;" />
   </a>
+  &nbsp;
   <a href="https://github.com/MahamadouG0" target="_blank">
-    <img src="https://img.shields.io/badge/-ffffff?style=flat-square&logo=github&logoColor=181717&labelColor=ffffff" />
+    <img src="https://img.shields.io/badge/-ffffff?style=flat-square&logo=github&logoColor=181717&labelColor=ffffff" width="42" height="42" style="border-radius: 50%; padding: 6px;" />
   </a>
+  &nbsp;
   <a href="https://www.instagram.com/mahamadou_garba/" target="_blank">
-    <img src="https://img.shields.io/badge/-ffffff?style=flat-square&logo=instagram&logoColor=E4405F&labelColor=ffffff" />
+    <img src="https://img.shields.io/badge/-ffffff?style=flat-square&logo=instagram&logoColor=E4405F&labelColor=ffffff" width="42" height="42" style="border-radius: 50%; padding: 6px;" />
   </a>
-</div>
-
-<!-- Styles et hover zoom -->
-<style>
-  #social-icons a {
-    display: inline-block;
-    transition: transform 0.25s ease;
-  }
-
-  #social-icons img {
-    width: 42px;
-    height: 42px;
-    border-radius: 50%;
-    padding: 6px;
-  }
-
-  #social-icons a:hover {
-    transform: scale(1.1);
-  }
-</style>
+</p>
 
 ---
 
@@ -109,6 +91,7 @@
     <img src="https://i.imgur.com/q1PV6pF.png" alt="GitHub Star 2023" width="120px"/>
   </a>
 </p>
+
 ---
 
 ## 📌 À propos de moi
@@ -225,120 +208,120 @@
 ## 🌟 Stack Technique
 
 <table align="center">
-    <tr>
+   \pmb{ 哥
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
       <br>Python
-     </td>
+      </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
       <br>Java
-     </td>
+      </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
       <br>JavaScript
-     </td>
+      </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
       <br>C#
-     </td>
+      </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
       <br>C++
-     </td>
+      </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
       <br>MySQL
-     </td>
+      </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
       <br>Docker
-     </td>
+      </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
       <br>AWS
-     </td>
+      </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
       <br>GitHub
-     </td>
-   </tr>
-   <tr>
+      </td>
+    </tr>
+    <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
       <br>HTML5
-     </td>
+      </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
       <br>CSS
-     </td>
+      </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
       <br>Bootstrap
-     </td>
+      </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
       <br>PHP
-     </td>
+      </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
       <br>WordPress
-     </td>
+      </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
       <br>Spring
-     </td>
+      </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" />
       <br>.NET
-     </td>
+      </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
       <br>VS Code
-     </td>
+      </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
       <br>Linux
-     </td>
-   </tr>
-   <tr>
+      </td>
+    </tr>
+    <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
-     </td>
+      </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
       <br>Postman
-     </td>
+      </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
       <br>Figma
-     </td>
+      </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
       <br>React
-     </td>
+      </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
       <br>Node.js
-     </td>
+      </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
       <br>MongoDB
-     </td>
+      </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
-     </td>
+      </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
       <br>TensorFlow
-     </td>
+      </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android Studio" />
       <br>Android
-     </td>
-   </tr>
+      </td>
+    </tr>
 </table>
 
 </div>
@@ -441,7 +424,6 @@
   </a>
 </p>
 
-
 ---
 
 <p align="center">
@@ -453,8 +435,6 @@
 <p align="center">
   <img src="https://profile-counter.glitch.me/MahamadouG0/count.svg" alt="Visiteurs" />
 </p>
-
-
 
 <p align="center">
   <i>👥 Nombre de visiteurs sur ce profil</i>
