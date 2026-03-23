@@ -16,65 +16,48 @@
 </p>
 
 <!-- SOCIAL ICONS ROW -->
-<div style="display: flex; justify-content: center; gap: 6px; align-items: center;">
-  
-  <a href="https://x.com/GarbaM38909" target="_blank" 
-     style="display: inline-block; transition: all 0.25s ease;">
-    <img src="https://img.shields.io/badge/-ffffff?style=flat-square&logo=x&logoColor=000000&labelColor=ffffff" 
-         style="width: 42px; height: 42px; border-radius: 50%; padding: 6px;" 
-         onmouseover="this.parentElement.style.transform='scale(1.1)';" 
-         onmouseout="this.parentElement.style.transform='scale(1)';" />
+<div id="social-icons" style="display: flex; justify-content: center; gap: 6px; align-items: center;">
+  <a href="https://x.com/GarbaM38909" target="_blank">
+    <img src="https://img.shields.io/badge/-ffffff?style=flat-square&logo=x&logoColor=000000&labelColor=ffffff" />
   </a>
-
-  <a href="https://www.linkedin.com/in/mahamadou-garba" target="_blank" 
-     style="display: inline-block; transition: all 0.25s ease;">
-    <img src="https://i.pinimg.com/736x/2d/6f/cb/2d6fcb4ffd51802b261abd7e0d5d2b05.jpg" 
-         style="width: 42px; height: 42px; border-radius: 50%; padding: 6px;" 
-         onmouseover="this.parentElement.style.transform='scale(1.1)';" 
-         onmouseout="this.parentElement.style.transform='scale(1)';" />
+  <a href="https://www.linkedin.com/in/mahamadou-garba" target="_blank">
+    <img src="https://i.pinimg.com/736x/2d/6f/cb/2d6fcb4ffd51802b261abd7e0d5d2b05.jpg" />
   </a>
-
-  <a href="https://www.facebook.com/share/1CTK99pFDC" target="_blank" 
-     style="display: inline-block; transition: all 0.25s ease;">
-    <img src="https://img.shields.io/badge/-ffffff?style=flat-square&logo=facebook&logoColor=1877F2&labelColor=ffffff" 
-         style="width: 42px; height: 42px; border-radius: 50%; padding: 6px;" 
-         onmouseover="this.parentElement.style.transform='scale(1.1)';" 
-         onmouseout="this.parentElement.style.transform='scale(1)';" />
+  <a href="https://www.facebook.com/share/1CTK99pFDC" target="_blank">
+    <img src="https://img.shields.io/badge/-ffffff?style=flat-square&logo=facebook&logoColor=1877F2&labelColor=ffffff" />
   </a>
-
-  <a href="https://dev.to/MahamadouG0" target="_blank" 
-     style="display: inline-block; transition: all 0.25s ease;">
-    <img src="https://img.shields.io/badge/-ffffff?style=flat-square&logo=dev.to&logoColor=0A0A0A&labelColor=ffffff" 
-         style="width: 42px; height: 42px; border-radius: 50%; padding: 6px;" 
-         onmouseover="this.parentElement.style.transform='scale(1.1)';" 
-         onmouseout="this.parentElement.style.transform='scale(1)';" />
+  <a href="https://dev.to/MahamadouG0" target="_blank">
+    <img src="https://img.shields.io/badge/-ffffff?style=flat-square&logo=dev.to&logoColor=0A0A0A&labelColor=ffffff" />
   </a>
-
-  <a href="https://ko-fi.com/MahamadouG0" target="_blank" 
-     style="display: inline-block; transition: all 0.25s ease;">
-    <img src="https://img.shields.io/badge/-ffffff?style=flat-square&logo=ko-fi&logoColor=FF5E5B&labelColor=ffffff" 
-         style="width: 42px; height: 42px; border-radius: 50%; padding: 6px;" 
-         onmouseover="this.parentElement.style.transform='scale(1.1)';" 
-         onmouseout="this.parentElement.style.transform='scale(1)';" />
+  <a href="https://ko-fi.com/MahamadouG0" target="_blank">
+    <img src="https://img.shields.io/badge/-ffffff?style=flat-square&logo=ko-fi&logoColor=FF5E5B&labelColor=ffffff" />
   </a>
-
-  <a href="https://github.com/MahamadouG0" target="_blank" 
-     style="display: inline-block; transition: all 0.25s ease;">
-    <img src="https://img.shields.io/badge/-ffffff?style=flat-square&logo=github&logoColor=181717&labelColor=ffffff" 
-         style="width: 42px; height: 42px; border-radius: 50%; padding: 6px;" 
-         onmouseover="this.parentElement.style.transform='scale(1.1)';" 
-         onmouseout="this.parentElement.style.transform='scale(1)';" />
+  <a href="https://github.com/MahamadouG0" target="_blank">
+    <img src="https://img.shields.io/badge/-ffffff?style=flat-square&logo=github&logoColor=181717&labelColor=ffffff" />
   </a>
-
-  <a href="https://www.instagram.com/mahamadou_garba/" target="_blank" 
-     style="display: inline-block; transition: all 0.25s ease;">
-    <img src="https://img.shields.io/badge/-ffffff?style=flat-square&logo=instagram&logoColor=E4405F&labelColor=ffffff" 
-         style="width: 42px; height: 42px; border-radius: 50%; padding: 6px;" 
-         onmouseover="this.parentElement.style.transform='scale(1.1)';" 
-         onmouseout="this.parentElement.style.transform='scale(1)';" />
+  <a href="https://www.instagram.com/mahamadou_garba/" target="_blank">
+    <img src="https://img.shields.io/badge/-ffffff?style=flat-square&logo=instagram&logoColor=E4405F&labelColor=ffffff" />
   </a>
-
 </div>
+
+<!-- Styles et hover zoom -->
+<style>
+  #social-icons a {
+    display: inline-block;
+    transition: transform 0.25s ease;
+  }
+
+  #social-icons img {
+    width: 42px;
+    height: 42px;
+    border-radius: 50%;
+    padding: 6px;
+  }
+
+  #social-icons a:hover {
+    transform: scale(1.1);
+  }
+</style>
 ---
 
 <p align="center">
